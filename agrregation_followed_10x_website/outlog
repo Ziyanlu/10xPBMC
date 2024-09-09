@@ -1,0 +1,33 @@
+
+
+Martian Runtime - v4.0.11
+2024-07-22 10:17:46 [runtime] Reattaching in local mode.
+Serving UI at http://qnode0111:39130?auth=dG-NQM5Y1rroEKOd8HPU8cgK0hfUaJWHUqEyEM4o-68
+
+
+Outputs:
+- Copy of the input aggregation CSV: /projects/b1038/Pulmonary/ziyan/10xGenomics_PBMC_datasets/data/with_chem_version/outs/aggregation.csv
+- Aggregation metrics summary HTML:  /projects/b1038/Pulmonary/ziyan/10xGenomics_PBMC_datasets/data/with_chem_version/outs/web_summary.html
+- count:
+    Aggregation metrics summary JSON:       /projects/b1038/Pulmonary/ziyan/10xGenomics_PBMC_datasets/data/with_chem_version/outs/count/summary.json
+    Secondary analysis output CSV:          /projects/b1038/Pulmonary/ziyan/10xGenomics_PBMC_datasets/data/with_chem_version/outs/count/analysis
+    Crispr analysis output:                 null
+    Filtered feature-barcode matrices MEX:  /projects/b1038/Pulmonary/ziyan/10xGenomics_PBMC_datasets/data/with_chem_version/outs/count/filtered_feature_bc_matrix
+    Filtered feature-barcode matrices HDF5: /projects/b1038/Pulmonary/ziyan/10xGenomics_PBMC_datasets/data/with_chem_version/outs/count/filtered_feature_bc_matrix.h5
+    Loupe Browser file:                     /projects/b1038/Pulmonary/ziyan/10xGenomics_PBMC_datasets/data/with_chem_version/outs/count/cloupe.cloupe
+    Beam mode:                              null
+    Antigen Specificity Controls:           {}
+    feature_reference:                      /projects/b1038/Pulmonary/ziyan/10xGenomics_PBMC_datasets/data/with_chem_version/outs/count/feature_reference.csv
+    Disable antigen aggregation:            true
+- vdj_t:                             null
+- vdj_t_gd:                          null
+- vdj_b:                             null
+- V(D)J reference:                   null
+- antigen_analysis:                  null
+
+Waiting 6 seconds for UI to do final refresh.
+Pipestance completed successfully!
+
+2024-07-22 10:17:52 Shutting down.
+Saving pipestance info to "/projects/b1038/Pulmonary/ziyan/10xGenomics_PBMC_datasets/data/with_chem_version/with_chem_version.mri.tgz"
+tar: Removing leading `/' from member names
